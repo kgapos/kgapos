@@ -7,7 +7,3 @@ I have a track record of solving complex problems with high quality software and
 - 🔭 I’m currently working as a Senior DevOps Engineer for the VeChain Foundation
 - 🌱 I’m currently learning development operations in linux and blockchain development
 - 💬 Ask me about web application development, cloud computing and development operations
-- 📫 Reach out to me through:
-  - [Email](mailto:kgapos@outlook.com)
-  - [My Website](http://kgapos.com)
-  - [LinkedIn](https://www.linkedin.com/in/kgapos/)
