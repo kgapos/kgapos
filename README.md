@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Kostas and I am a software engineer with over 13 years of professional experience in web development, cloud computing and DevOps. My first line of code was on an Amstrad 6128 computer when I was 12 years old, and I never stopped coding ever since. I graduated top of my class in my Computer Science BSc and earned my MSc in Adv. Software Engineering with honours. 
+My name is Kostas and I am a software engineer with 20 years of experience in web development, cloud computing, blockchain and DevOps. I wrote my first line of code in 1997 on an Amstrad 6128 computer, and I never stopped coding ever since. I graduated top of the 2003 class in my Computer Science BSc and earned my MSc in Adv. Software Engineering with distinction. 
 
-I have a track record of solving complex problems with high quality software and passionately reducing toil by automation. I am also a force multiplier and help others grow professionally through mentoring, presenting, and blogging about lessons learned over my career, my lifelong learning journey.
+I have a proven track record of cutting down on operational toil and solving complex problems with high quality software. Beyond coding, I enjoy elevating others in their professional journey through mentoring, presenting, and blogging.
 
 - 🔭 I’m currently working as a Senior DevOps Engineer for the VeChain Foundation
 - 🌱 I’m currently learning about blockchain development and devops in linux/AWS
