@@ -4,6 +4,6 @@ My name is Kostas and I am a software engineer with 20 years of experience in we
 
 I have a proven track record of cutting down on operational toil and solving complex problems with high quality software. Beyond coding, I enjoy elevating others in their professional journey through mentoring, presenting, and blogging.
 
-- 🔭 I’m currently working as a Senior DevOps Engineer for the VeChain Foundation
+- 🔭 I’m currently working as the Head of NodeOps at the VeChain Foundation
 - 🌱 I’m currently expanding my knowledge in blockchain and AWS
 - 💬 Ask me about DevOps, Site Reliability Engineering, Web Application Development and Cloud Computing
